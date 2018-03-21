@@ -1,0 +1,1 @@
+/Users/Yuki/.config/fisherman/theme/theme.util.get.themes.fish

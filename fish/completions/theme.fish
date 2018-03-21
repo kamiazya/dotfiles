@@ -1,0 +1,1 @@
+/Users/Yuki/.config/fisherman/theme/completions/theme.fish

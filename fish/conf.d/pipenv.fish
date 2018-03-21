@@ -1,0 +1,1 @@
+/Users/Yuki/.config/fisherman/pipenv/conf.d/pipenv.fish

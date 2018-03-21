@@ -1,0 +1,1 @@
+/Users/Yuki/.config/fisherman/getopts/getopts.fish

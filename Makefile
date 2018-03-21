@@ -1,7 +1,7 @@
 .PHONY: files deploy init
 
 DOTFILES_EXCLUDES := .DS_Store .git .gitmodules .travis.yml .editorconfig
-DOTFILES_TARGET   := $(wildcard .??*) bin
+DOTFILES_TARGET   := $(wildcard .??*) bin fish
 DOTFILES_DIR      := $(PWD)
 DOTFILES_FILES    := $(filter-out $(DOTFILES_EXCLUDES), $(DOTFILES_TARGET))
 

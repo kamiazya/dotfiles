@@ -1,0 +1,1 @@
+/Users/Yuki/.config/fisherman/agnoster/fish_prompt.fish
