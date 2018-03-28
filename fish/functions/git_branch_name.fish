@@ -1,0 +1,1 @@
+/Users/aidma288/.config/fisherman/git_util/git_branch_name.fish

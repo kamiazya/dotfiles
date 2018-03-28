@@ -1,1 +1,1 @@
-/Users/Yuki/.config/fisherman/humanize_duration/humanize_duration.fish
+/Users/aidma288/.config/fisherman/humanize_duration/humanize_duration.fish

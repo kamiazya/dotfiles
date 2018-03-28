@@ -1,1 +1,1 @@
-/Users/Yuki/.config/fisherman/agnoster/fish_right_prompt.fish
+/Users/aidma288/.config/fisherman/sol/fish_right_prompt.fish

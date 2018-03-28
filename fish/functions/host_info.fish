@@ -1,0 +1,1 @@
+/Users/aidma288/.config/fisherman/host_info/host_info.fish

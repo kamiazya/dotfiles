@@ -1,1 +1,1 @@
-/Users/Yuki/.config/fisherman/z/functions/__z.fish
+/Users/aidma288/.config/fisherman/z/functions/__z.fish
