@@ -1,0 +1,1 @@
+/Users/aidma288/.config/fisherman/pyenv/completions/pyenv.fish
